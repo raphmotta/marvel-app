@@ -18,11 +18,13 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { CharactersModule } from './characters/characters.module';
+import { AppmarvelFooterComponent } from './appmarvel-footer/appmarvel-footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AppmarvelHomeComponent
+    AppmarvelHomeComponent,
+    AppmarvelFooterComponent
   ],
   imports: [
     BrowserModule,

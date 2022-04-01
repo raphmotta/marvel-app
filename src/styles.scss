@@ -5,3 +5,22 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 /* Importing Bootstrap SCSS file. */
 @import '~bootstrap/scss/bootstrap';
+
+
+/* aling global settings */
+
+.v-middle {
+    vertical-align: middle;
+}
+
+
+/* color for project marvel */
+
+.red {
+    color: rgb(228, 22, 42)
+}
+
+.black {
+
+    color: rgb(0, 0, 0)
+}

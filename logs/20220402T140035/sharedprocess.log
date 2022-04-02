@@ -1,0 +1,9 @@
+[2022-04-02 14:00:58.302] [sharedprocess] [info] Starting worker process with pid 8205 (type: fileWatcher, window: 1).
+[2022-04-02 14:03:53.086] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+[2022-04-02 14:03:53.205] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+[2022-04-02 14:03:58.397] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-pt-br /home/rma/projetos/icatu/marvel-app/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-pt-br-1.66.1
+[2022-04-02 14:03:58.548] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.4f4fd3ac-dbf9-44a9-b0b5-b046fab25025: ms-ceintl.vscode-language-pack-pt-br
+[2022-04-02 14:03:58.556] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.66.1
+[2022-04-02 14:03:58.557] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-pt-br
+[2022-04-02 14:03:58.558] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+[2022-04-02 14:03:58.611] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br

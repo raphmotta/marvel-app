@@ -1,0 +1,8 @@
+[2022-04-02 14:04:01.137] [main] [info] update#setState idle
+[2022-04-02 14:04:01.822] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-02 14:04:02.034] [main] [info] ExtensionHostStarterWorker created
+[2022-04-02 14:04:03.752] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-02 14:04:05.839] [main] [info] Starting extension host with pid 8414 (fork() took 8 ms).
+[2022-04-02 14:04:05.839] [main] [info] ExtensionHostStarterWorker.start() took 11 ms.
+[2022-04-02 14:04:17.279] [main] [info] Waiting for extension host with pid 8414 to exit.
+[2022-04-02 14:04:17.284] [main] [info] Extension host with pid 8414 exited with code: 0, signal: null.

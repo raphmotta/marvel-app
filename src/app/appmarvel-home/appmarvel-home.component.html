@@ -8,8 +8,12 @@
          <img src="assets/logo/logo.png">
         </div>
       </mat-toolbar>
+      <div>  
+        <input  type="text" placeholder="Pesquisar">
+      </div>
     <mat-nav-list>
       <div class="menu-list">
+      <a mat-list-item href="#">HOME</a>
       <a mat-list-item href="#">NOTICIAS</a>
       <a mat-list-item href="#">PERSONAGENS</a>
       <a mat-list-item href="#">QUADRINHOS</a>
@@ -28,7 +32,7 @@
         *ngIf="isHandset$ | async">
         <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
       </button>
-      <span>TITULO DA PAGINA ATUAL</span>
+      <span>HOME</span>
     </mat-toolbar>
     <!-- Add Content Here -->    
     <div class="container-fluid p-0">

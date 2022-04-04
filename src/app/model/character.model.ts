@@ -16,3 +16,9 @@ export interface ICharacter {
     series?: Serie[]; */
 
 }
+
+export interface ICharacterList {
+    data?: {
+        results?: ICharacter[];
+    }
+}

@@ -1,0 +1,51 @@
+
+
+.example-card {
+    background-color: #2d2d30;
+    color: #ffff;
+    align-items:baseline;
+}
+
+.card-title {
+    margin-left: 60px;
+}
+
+.button-v  {
+    display:flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: auto;
+    width: 70%;
+    color: #ffff;
+    background-color:#ec2c2c;
+    margin: 0 auto;
+    height: 45px;
+}
+
+.button-v:hover  {
+    border-radius: 10px;
+    border-color: #ffff;
+    
+}
+.text-btn {
+   display: block;
+   position: relative;
+   height: 20px;
+   font-family: 'Anton', sans-serif;
+   font-size: 15px; 
+   margin: 0 auto;
+   border:0;
+   padding: 10px;
+
+}
+
+.character-image {
+    min-height: 310px !important;
+    max-height: 310px !important;
+}
+
+.character-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

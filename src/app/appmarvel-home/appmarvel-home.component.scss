@@ -27,11 +27,31 @@
 
 .menu-list .mat-list-item {
   color:#ffff;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 500;
 }
 
 .menu-list .mat-list-item:hover{
   color:#ff5641;
 }
 
+input {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  height: 35px;
+  border-radius: 10px;
+  border-color: none;
 
+}
+
+input:hover {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  height: 35px;
+  border-radius: 10px;
+  border-color: #ff5641;
+
+}
  
